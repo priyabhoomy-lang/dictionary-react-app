@@ -13,9 +13,9 @@ function App() {
         </header>
         <Dictionary defaultKeyword="sunset" />
         <footer>
-          This project was coded by{" "}
+          This project was coded by PriyaBhoomy
           <a
-            href="https://www.shecodes.io/"
+            href="https://portfolio-priyabhoomy.netlify.app"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -23,7 +23,7 @@ function App() {
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/shecodesio/dictionary"
+            href="https://github.com/priyabhoomy-lang/dictionary-react-app"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -31,7 +31,7 @@ function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://shecodes-dictionary.netlify.app/"
+            href="https://diction-react-app.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
